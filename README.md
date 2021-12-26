@@ -42,7 +42,17 @@ Vous aurez comme commandes :
   - **Autre**
 <hr>
 🇺🇸
+The Prisel.fr Tools bot has been decided to be shared for free so that everyone can use a piece of code after closing our Garry's Mod Community.
 
+There is no installation because it would be quite complicated and it's a mess in the code clearly, after if you know it you can I think but if not do not try :)
+
+The bot works under **Node 12 and +** with **discord.js v11**
+  
+You will have as commands :
+  - **Administration**
+  - **Moderation**
+  - **Fun**
+  - **Other**
 
 # Community
 
