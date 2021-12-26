@@ -10,13 +10,13 @@
   <a href="https://discord.gg/VkhehDR">
     <img src="https://discordapp.com/api/guilds/500591727225208881/widget.png?style=shield" alt="Discord Server">
   </a>
-  <a href="">
+  <a href="#">
      <img alt="Prisel Size" src="https://img.shields.io/github/languages/code-size/Yaguxxx/Prisel.fr-Tools-Bot-Discord?style=for-the-badge">
   </a>
-  <a href="">
+  <a href="#">
     <img alt="Stars" src="https://img.shields.io/github/stars/Yaguxxx/Prisel.fr-Tools-Bot-Discord?style=for-the-badge">
   </a>
-   <a href="">
+   <a href="#">
     <img alt="Download" src="https://img.shields.io/github/downloads/yaguxxx/Prisel.fr-Tools-Bot-Discord/total?style=for-the-badge">
   </a>
 </p>
