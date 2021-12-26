@@ -17,7 +17,7 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/Yaguxxx/Prisel.fr-Tools-Bot-Discord?style=for-the-badge">
   </a>
    <a href="#">
-    <img alt="Download" src="https://img.shields.io/github/downloads/yaguxxx/Prisel.fr-Tools-Bot-Discord/total?style=for-the-badge">
+    <img alt="Download" src="https://img.shields.io/github/downloads/Yaguxxx/Prisel.fr-Tools-Bot-Discord/total?style=for-the-badge">
   </a>
 </p>
 
